@@ -31,7 +31,7 @@ Replace your_bot_token_here with the actual bot token you obtained from the Disc
 ## Usage
 1. Run the bot
    `python welcome_bot.py`
-2. Welcome Message: When a new member joins your server, WelcomeBot will automatically send a welcome message in the `#welcome-channel`.
+2. When a new member joins your server, WelcomeBot will automatically send a welcome message in the `#welcome-channel`.
    Make sure the bot has permission to read and send messages in that channel.
 
 
