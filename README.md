@@ -24,7 +24,7 @@ bot_env\Scripts\activate     # For Windows
 pip install -r requirements.txt
 
 ## Configure
-Create a `.env` file in the project directory if it doesn't exist, and add your bot token:
+Create a `.env` file in the project directory, and add your bot token:
 DISCORD_TOKEN=your_bot_token_here
 Replace your_bot_token_here with the actual bot token you obtained from the Discord Developer Portal.
 
