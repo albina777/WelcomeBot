@@ -16,12 +16,13 @@ git clone https://github.com/albina777/WelcomeBot.git
 cd WelcomeBot
 
 ## Create and acticate the virtual environment 
-python3 -m venv bot_env
-source bot_env/bin/activate  # For MacOS/Linux
-bot_env\Scripts\activate     # For Windows
+`python3 -m venv bot_env`
+
+`source bot_env/bin/activate`  # For MacOS/Linux
+`bot_env\Scripts\activate`     # For Windows
 
 ## Install dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ## Configure
 Create a `.env` file in the project directory, and add your bot token:
