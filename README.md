@@ -19,6 +19,7 @@ cd WelcomeBot
 `python3 -m venv bot_env`
 
 `source bot_env/bin/activate`  # For MacOS/Linux
+
 `bot_env\Scripts\activate`     # For Windows
 
 ## Install dependencies
